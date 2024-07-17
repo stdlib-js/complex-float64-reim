@@ -254,8 +254,8 @@ int main( void ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/complex-imag`][@stdlib/complex/imag]</span><span class="delimiter">: </span><span class="description">return the imaginary component of a double-precision complex floating-point number.</span>
--   <span class="package-name">[`@stdlib/complex-real`][@stdlib/complex/real]</span><span class="delimiter">: </span><span class="description">return the real component of a double-precision complex floating-point number.</span>
+-   <span class="package-name">[`@stdlib/complex-float64/imag`][@stdlib/complex/float64/imag]</span><span class="delimiter">: </span><span class="description">return the imaginary component of a double-precision complex floating-point number.</span>
+-   <span class="package-name">[`@stdlib/complex-float64/real`][@stdlib/complex/float64/real]</span><span class="delimiter">: </span><span class="description">return the real component of a double-precision complex floating-point number.</span>
 
 </section>
 
@@ -335,9 +335,9 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/complex/imag]: https://github.com/stdlib-js/complex-imag
+[@stdlib/complex/float64/imag]: https://github.com/stdlib-js/complex-float64-imag
 
-[@stdlib/complex/real]: https://github.com/stdlib-js/complex-real
+[@stdlib/complex/float64/real]: https://github.com/stdlib-js/complex-float64-real
 
 <!-- </related-links> -->
 
