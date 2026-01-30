@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import reim from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-reim@esm/index.mjs';
+import reim from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-reim@v0.1.3-esm/index.mjs';
 ```
 
 #### reim( z )
@@ -98,7 +98,7 @@ var out = reim( z );
 import Complex128 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-ctor@esm/index.mjs';
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
-import reim from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-reim@esm/index.mjs';
+import reim from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float64-reim@v0.1.3-esm/index.mjs';
 
 function random() {
     return new Complex128( discreteUniform( -10, 10 ), discreteUniform( -10, 10 ) );
